@@ -1,0 +1,1 @@
+gnupod_INIT -m /asda/asdasd/

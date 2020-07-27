@@ -1,0 +1,1 @@
+gnupod_addsong -m ipodpath songpath
