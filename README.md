@@ -1,6 +1,8 @@
 # ipodsynctrash
 This is trash, BUT, it works!
-
+You need:
+> gnupod-tools
+* Then
 Run:
 > bash iPod.sh
 * then enter your iPod's mountpoint,
