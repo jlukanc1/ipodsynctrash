@@ -1,5 +1,5 @@
 # ipodsynctrash
-This is trash, BUT, it works!
+I was going to add NCurses to this for a nice gui, but this is not too useful anyway
 You need:
 > gnupod-tools
 * Then
